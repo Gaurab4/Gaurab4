@@ -1,6 +1,6 @@
 ![](https://github.com/Gaurab4/Gaurab4/blob/911bb105b8d750af2b32770e27760c0094bb39b5/Github%20Banner.png)
 
-<h3 align = “Center”>Hello everyone 👋👋,I’m Gaurab Thapa😁
+<h3 align = “Center”>Hello everyone 👋👋,I’m Gaurab 😁
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fb&label=Profile%20views&color=0e75b6&style=flat" alt="fb" /> </p>
 
 * I’m currently learning **Flutter🤓**
