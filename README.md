@@ -18,7 +18,7 @@ Currently working on AI-powered products, real-time applications, and developer 
 
 ### 💼 Experience
 
-**Frontend Engineer @ Bryckel AI**
+**Software Engineer @ Bryckel AI**
 
 * Built scalable React applications used in production
 * Implemented Role-Based Access Control (RBAC)
