@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Gaurab
 
-Frontend Engineer with 1.5+ years of experience building scalable web applications using React, TypeScript, and modern frontend technologies.
+Software Engineer with 2 years of experience building scalable web applications using React, TypeScript, and modern frontend technologies.
 
 Currently working on AI-powered products, real-time applications, and developer tools while exploring distributed systems, cloud infrastructure, and LLM-based applications.
 
