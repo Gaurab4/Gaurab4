@@ -1,30 +1,91 @@
-![](https://github.com/Gaurab4/Gaurab4/blob/911bb105b8d750af2b32770e27760c0094bb39b5/Github%20Banner.png)
+# Hey there 👋 I'm Gaurab
 
-<h3 align = “Center”>Hello everyone 👋👋,I’m Gaurab 😁
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fb&label=Profile%20views&color=0e75b6&style=flat" alt="fb" /> </p>
+Frontend Engineer with 1.5+ years of experience building scalable web applications using React, TypeScript, and modern frontend technologies.
 
-* I’m currently learning **Flutter🤓**
+Currently working on AI-powered products, real-time applications, and developer tools while exploring distributed systems, cloud infrastructure, and LLM-based applications.
 
-* I’m looking to collaborate on **App development**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+### 🚀 What I'm Working On
 
+* Building AI-powered web applications
+* Exploring LLMs, RAG systems, and AI integrations
+* Contributing to open-source projects
+* Learning Docker, Kubernetes, Redis, and distributed systems
+* Creating side projects that solve real-world problems
 
+---
 
+### 💼 Experience
 
+**Frontend Engineer @ Bryckel AI**
 
-  
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/gaurab-61a817195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gaurav__2t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c c" height="30" width="40" /></a>
-<br><br>
+* Built scalable React applications used in production
+* Implemented Role-Based Access Control (RBAC)
+* Added WebSocket streaming for real-time AI responses
+* Improved state management using Redux
+* Worked closely with backend and AI teams to deliver features end-to-end
 
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurab4&show_icons=true&locale=en" alt="fb" />
-<img align="right" src="https://media.tenor.com/images/2ae7a94251ad1e67887a6b1b1269c1e1/tenor.png" width="300" height="300">
- 
-  
+### 🛠 Tech Stack
 
+#### Frontend
 
- 
+React • TypeScript • JavaScript • Redux • Chakra UI • HTML • CSS
+
+#### Backend & Database
+
+Django • Python • PostgreSQL • REST APIs
+
+#### AI & Data
+
+OpenAI • Vector Databases • RAG • Embeddings • Qdrant
+
+#### DevOps & Tools
+
+Git • Docker • Kubernetes (Learning) • Linux • Postman
+
+---
+
+### 🌱 Currently Learning
+
+* System Design
+* Distributed Systems
+* Kubernetes
+* AI Engineering
+* Message Queues & Event-Driven Architecture
+
+---
+
+### 📌 Featured Projects
+
+#### TripMate
+
+Travel planning platform built with modern web technologies.
+
+#### Light UI
+
+A lightweight and customizable React component library.
+
+#### AI Applications
+
+Projects involving LLM integrations, streaming responses, and RAG architectures.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurab4&show_icons=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/gaurab-61a817195/
+* Portfolio: https://gaurabthportfoliov.vercel.app/
+* GitHub: https://github.com/Gaurab4
+
+Always open to discussing frontend engineering, AI products, startups, and interesting side projects.
